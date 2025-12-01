@@ -1,5 +1,5 @@
 """
-PHASE 2 DELIVERABLE (v2 con 4 tonos)
+PHASE 2 DELIVERABLE (v2 4 tones)
 Define y inicializa los modelos de IA.
 """
 import os

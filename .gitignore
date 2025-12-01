@@ -1,0 +1,25 @@
+# --- Secrets (CRITICAL) ---
+.env
+.env.local
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- IDE Settings (Optional but recommended) ---
+.vscode/
+.idea/
